@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Tilt+Warp&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Tilt+Neon&display=swap');
+
+body {
+    margin: 0px;
+}
+
+
+.header {
+    color: white;
+    background: #00cfff;
+    padding: 15px;
+
+}
+
+h1, h2 {
+    font-family: 'Tilt Warp', cursive;
+}
+
+p, li {
+    font-family: 'Tilt Neon', cursive;
+}
+.menu {
+    width: 25%;
+    float: left;
+    color: white;
+    background: #ff7ec7;
+
+}
+
+.main {
+    width: 75%;
+    float: left;
+    color: white;
+    background: #fdca6d;
+}
