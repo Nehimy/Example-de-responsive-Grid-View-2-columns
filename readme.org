@@ -1,0 +1,7 @@
+* Css
+
+** Example of Building a Responsive Grid-View
+Este ejemplo muestra una página web responsive simple, con dos columnas.
+* Imagen
+
+[[https://i.imgur.com/XgGLmLn.png]]
